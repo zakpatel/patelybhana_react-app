@@ -1,0 +1,156 @@
+.quotes-container{
+    margin-top: 82px;
+    display: flex;
+}
+
+.quotes-text-container{
+    display: flex;
+    flex-direction: column;
+    width: 465px;
+    left: 165px;
+    position: relative;
+    margin-top: 75px;
+}
+
+.quotes-text-container h1{
+    color: #213C2C;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.quotes-text-container p{
+    color: #213C2C;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.6;
+    margin-top: 33px;
+}
+
+.quotes-form-container{
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    left: 350px;
+}
+
+.name{
+    width: 304.355px;
+    height: 73.597px;
+    border: 2px solid rgba(33, 60, 44, 0.10);
+    background: #FFF;
+    text-align: left;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.1px;
+    text-transform: uppercase;
+    margin-right: 12px;
+}
+
+.last-name{
+    width: 304.355px;
+    height: 73.597px;
+    border: 2px solid rgba(33, 60, 44, 0.10);
+    background: #FFF;
+    text-align: left;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.1px;
+    text-transform: uppercase;
+}
+
+.telephone{
+    width: 304.355px;
+    height: 73.597px;
+    border: 2px solid rgba(33, 60, 44, 0.10);
+    background: #FFF;
+    text-align: left;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.1px;
+    text-transform: uppercase;
+    margin-right: 12px;
+}
+
+.email{
+    width: 304.355px;
+    height: 73.597px;
+    border: 2px solid rgba(33, 60, 44, 0.10);
+    background: #FFF;
+    text-align: left;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.1px;
+    text-transform: uppercase;
+}
+
+.message{
+    width: 633px;
+    height: 261.966px;
+    flex-shrink: 0;
+    border: 2px solid rgba(33, 60, 44, 0.10);
+    background: #FFF;
+    text-align: left;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 0%;
+    letter-spacing: 2.1px;
+    text-transform: uppercase;  
+    margin-top: 16px;
+}
+
+input[type=text]{
+    padding-left: 10px;
+}
+
+input[type=tel]{
+    padding-left: 10px;
+}
+
+input[type=email]{
+    padding-left: 10px;
+}
+
+.formsubmit{
+    background-color: #ffffff;
+    border: 7px solid;
+    color: rgb(0, 0, 0);
+    padding: 25px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 16px;
+    justify-content: center;
+    margin-left: 180.15px;
+    cursor: pointer;
+}
+
+
+.quotes-form-container-1{
+    margin-top: 16px;
+}

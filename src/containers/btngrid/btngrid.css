@@ -1,0 +1,289 @@
+.btngrid-container-1{
+    margin-top: 108px;
+    display: flex;
+}
+
+.btngrid-container-1 a{
+    display: inline-block;
+}
+
+.btngrid-immigration-background a{
+    display: inline-block;
+}
+
+.btngrid-immigration-container{
+    position: relative;
+    display: flex;
+}
+
+.btngrid-immigration-background{
+    position: relative;
+    background-size: cover;
+}
+
+.btngrid-immigration-background img{
+    width: 740.5px;
+    height: 472.369px;
+}
+
+.btngrid-immigration-background::before{
+    content: "";
+    width: 740.5px;
+    height: 472.369px;
+    background: radial-gradient(50% 50.00% at 50% 50.00%, rgba(23, 40, 30, 0.76) 0%, rgba(33, 60, 44, 0.76) 100%), lightgray 50% / cover no-repeat;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.btngrid-immigration-text{
+    position: absolute;
+    bottom: 150.37px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    left: 165px;
+}
+
+.btngrid-immigration-text img{
+    width: 126px;
+    height: 126px;
+    flex-shrink: 0;
+}
+
+
+.btngrid-tax-container{
+    position: relative;
+    display: flex;
+}
+
+.btngrid-tax-background{
+    position: relative;
+    background-size: cover;
+}
+
+.btngrid-tax-background img{
+    width: 740.5px;
+    height: 472.369px;
+}
+
+.btngrid-tax-background::before{
+    content: "";
+    width: 740.5px;
+    height: 472.369px;
+    background: radial-gradient(50% 50.00% at 50% 50.00%, rgba(23, 40, 30, 0.76) 0%, rgba(33, 60, 44, 0.76) 100%), lightgray 50% / cover no-repeat;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.btngrid-tax-text{
+    position: absolute;
+    bottom: 150.37px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    right: 300px;
+}
+
+.btngrid-tax-text img{
+    width: 126px;
+    height: 126px;
+    flex-shrink: 0;
+}
+
+.btngrid-container-2{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.btngrid-real-container{
+    position: relative;
+    display: flex;
+}
+
+.btngrid-real-background{
+    position: relative;
+    background-size: cover;
+}
+
+.btngrid-real-background img{
+    width: 740.5px;
+    height: 472.369px;
+}
+
+.btngrid-real-background::before{
+    content: "";
+    width: 740.5px;
+    height: 472.369px;
+    background: radial-gradient(50% 50.00% at 50% 50.00%, rgba(23, 40, 30, 0.76) 0%, rgba(33, 60, 44, 0.76) 100%), lightgray 50% / cover no-repeat;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.btngrid-real-text{
+    position: absolute;
+    bottom: 150.37px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    left: 280px;
+}
+
+.btngrid-real-text img{
+    width: 126px;
+    height: 126px;
+    flex-shrink: 0;
+}
+
+.btngrid-business-container{
+    position: relative;
+    display: flex;
+}
+
+.btngrid-business-background{
+    position: relative;
+    background-size: cover;
+}
+
+.btngrid-business-background img{
+    width: 740.5px;
+    height: 472.369px;
+}
+
+.btngrid-business-background::before{
+    content: "";
+    width: 740.5px;
+    height: 472.369px;
+    background: radial-gradient(50% 50.00% at 50% 50.00%, rgba(23, 40, 30, 0.76) 0%, rgba(33, 60, 44, 0.76) 100%), lightgray 50% / cover no-repeat;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.btngrid-business-text{
+    position: absolute;
+    bottom: 150.37px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    left: 280px;
+}
+
+.btngrid-business-text img{
+    width: 126px;
+    height: 126px;
+    flex-shrink: 0;
+}
+
+.btngrid-container-3{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.btngrid-family-container{
+    position: relative;
+    display: flex;
+}
+
+.btngrid-family-background{
+    position: relative;
+    background-size: cover;
+}
+
+.btngrid-family-background img{
+    width: 740.5px;
+    height: 472.369px;
+}
+
+.btngrid-family-background::before{
+    content: "";
+    width: 740.5px;
+    height: 472.369px;
+    background: radial-gradient(50% 50.00% at 50% 50.00%, rgba(23, 40, 30, 0.76) 0%, rgba(33, 60, 44, 0.76) 100%), lightgray 50% / cover no-repeat;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.btngrid-family-text{
+    position: absolute;
+    bottom: 150.37px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    left: 280px;
+}
+
+.btngrid-family-text img{
+    width: 126px;
+    height: 126px;
+    flex-shrink: 0;
+}
+
+.btngrid-maritime-container{
+    position: relative;
+    display: flex;
+}
+
+.btngrid-maritime-background{
+    position: relative;
+    background-size: cover;
+}
+
+.btngrid-maritime-background img{
+    width: 740.5px;
+    height: 472.369px;
+}
+
+.btngrid-maritime-background::before{
+    content: "";
+    width: 740.5px;
+    height: 472.369px;
+    background: radial-gradient(50% 50.00% at 50% 50.00%, rgba(23, 40, 30, 0.76) 0%, rgba(33, 60, 44, 0.76) 100%), lightgray 50% / cover no-repeat;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.btngrid-maritime-text{
+    position: absolute;
+    bottom: 150.37px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    left: 280px;
+}
+
+.btngrid-maritime-text img{
+    width: 126px;
+    height: 126px;
+    flex-shrink: 0;
+}

@@ -1,0 +1,58 @@
+.biography-container{
+    display: flex;
+    margin-top: 163px;
+}
+
+.biography-image img{
+    width: 828px;
+    height: 813.846px;
+    flex-shrink: 0;
+}
+
+.biography-title{
+    margin-top: 65px;
+    color: #213C2C;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: fit-content;
+}
+
+.biography-text{
+    margin-top: 29px;
+    width: 608px;
+    height: 442px;
+    color: #13231D;
+    font-family: Montserrat;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.biography-quote{
+    width: 275px;
+    height: 71px;
+    flex-shrink: 0;
+    border: 7px solid #213C2C;
+    margin-top: 29px;
+}
+
+.biography-button{
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 25px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
