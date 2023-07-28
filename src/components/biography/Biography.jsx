@@ -15,7 +15,7 @@ const Biography = () => {
       <div className='biography-text'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla enim lacus, pharetra vitae quam vitae, cursus pharetra nunc. Maecenas eu pretium lectus. Nunc finibus, libero sit amet facilisis porta, est enim vehicula urna, sed lobortis lorem libero a turpis. Proin est dolor, ultrices a iaculis et, dictum quis justo.<br></br>
           <br></br>
-            Donec nec tortor magna. Sed pellentesque tellus in lectus rutrum ullamcorper. Aliquam vehicula et massa eu faucibus. Mauris dictum luctus molestie. Duis sit amet felis nisi. Praesent at nisl luctus, gravida neque eu, mattis erat. Miculo en 4</p>
+            Donec nec tortor magna. Sed pellentesque tellus in lectus rutrum ullamcorper. Aliquam vehicula et massa eu faucibus. Mauris dictum luctus molestie. Duis sit amet felis nisi. Praesent at nisl luctus, gravida neque eu, mattis erat.</p>
         <div className='biography-quote'>
         <button type='button-2' className='biography-button'>Get a free quote →</button>
         </div>
