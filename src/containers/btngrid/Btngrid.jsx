@@ -56,26 +56,6 @@ const Btngrid = () => {
           </div>
         </div>
     </div>
-    <div className='btngrid-container-3'>
-        <div className='btngrid-family-container'>
-          <div className='btngrid-family-background'>
-            <a href='#family'><img src={family} alt='family'></img></a>
-          </div>
-          <div className='btngrid-family-text'>
-            <a href='#family'><img src={familyicons} alt='familyicons'></img></a>
-            <h1><a href='#family'>Family Law</a></h1>
-          </div>
-        </div>
-        <div className='btngrid-maritime-container'>
-          <div className='btngrid-maritime-background'>
-            <a href='#maritime'><img src={maritime} alt='maritime'></img></a>
-          </div>
-          <div className='btngrid-maritime-text'>
-            <a href='#maritime'><img src={maritimeicons} alt='maritimeicons'></img></a>
-            <h1><a href='#maritime'>Maritime Law</a></h1>
-          </div>
-        </div>
-    </div>
     </div>
   )
 }
