@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/patelybhana_react-app/static/css/main.1595fe63.css",
-    "main.js": "/patelybhana_react-app/static/js/main.2cbaed93.js",
+    "main.js": "/patelybhana_react-app/static/js/main.c8c834c1.js",
     "static/media/photo-1454165804606-c3d57bc86b40.jpg": "/patelybhana_react-app/static/media/photo-1454165804606-c3d57bc86b40.11dedc787a170f052f88.jpg",
     "static/media/photo-1431540015161-0bf868a2d407.jpg": "/patelybhana_react-app/static/media/photo-1431540015161-0bf868a2d407.b2e2f498882e16e97cc3.jpg",
     "static/media/hass.png": "/patelybhana_react-app/static/media/hass.3413e1c7a54190b2e586.png",
@@ -13,10 +13,10 @@
     "static/media/P_BMesa de trabajo 11.png": "/patelybhana_react-app/static/media/P_BMesa de trabajo 11.b0df89a26aa37b59d472.png",
     "index.html": "/patelybhana_react-app/index.html",
     "main.1595fe63.css.map": "/patelybhana_react-app/static/css/main.1595fe63.css.map",
-    "main.2cbaed93.js.map": "/patelybhana_react-app/static/js/main.2cbaed93.js.map"
+    "main.c8c834c1.js.map": "/patelybhana_react-app/static/js/main.c8c834c1.js.map"
   },
   "entrypoints": [
     "static/css/main.1595fe63.css",
-    "static/js/main.2cbaed93.js"
+    "static/js/main.c8c834c1.js"
   ]
 }
