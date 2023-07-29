@@ -1,26 +1,22 @@
 {
   "files": {
     "main.css": "/patelybhana_react-app/static/css/main.1595fe63.css",
-    "main.js": "/patelybhana_react-app/static/js/main.11443614.js",
-    "static/media/photo-1505682634904-d7c8d95cdc50.jpg": "/patelybhana_react-app/static/media/photo-1505682634904-d7c8d95cdc50.0c023a741cb5e26ca644.jpg",
+    "main.js": "/patelybhana_react-app/static/js/main.2cbaed93.js",
     "static/media/photo-1454165804606-c3d57bc86b40.jpg": "/patelybhana_react-app/static/media/photo-1454165804606-c3d57bc86b40.11dedc787a170f052f88.jpg",
     "static/media/photo-1431540015161-0bf868a2d407.jpg": "/patelybhana_react-app/static/media/photo-1431540015161-0bf868a2d407.b2e2f498882e16e97cc3.jpg",
     "static/media/hass.png": "/patelybhana_react-app/static/media/hass.3413e1c7a54190b2e586.png",
-    "static/media/photo-1455390582262-044cdead277a.jpg": "/patelybhana_react-app/static/media/photo-1455390582262-044cdead277a.af8523ef8d13f0ec505b.jpg",
     "static/media/photo-1507679799987-c73779587ccf.jpg": "/patelybhana_react-app/static/media/photo-1507679799987-c73779587ccf.5f01724b61696869dc8f.jpg",
     "static/media/photo-1504355080015-bba52674577b.jpg": "/patelybhana_react-app/static/media/photo-1504355080015-bba52674577b.a96bc2efefbc94ee13e6.jpg",
     "static/media/visas.png": "/patelybhana_react-app/static/media/visas.e3cf0bffcbd64f94500e.png",
-    "static/media/family law.png": "/patelybhana_react-app/static/media/family law.7ace0599f1abb83a5cca.png",
-    "static/media/maritimo.png": "/patelybhana_react-app/static/media/maritimo.724004a41fe78a1923d7.png",
     "static/media/business law.png": "/patelybhana_react-app/static/media/business law.63ec88070421e0c98198.png",
     "static/media/tax law.png": "/patelybhana_react-app/static/media/tax law.0c90cd217959b30f8e5f.png",
     "static/media/P_BMesa de trabajo 11.png": "/patelybhana_react-app/static/media/P_BMesa de trabajo 11.b0df89a26aa37b59d472.png",
     "index.html": "/patelybhana_react-app/index.html",
     "main.1595fe63.css.map": "/patelybhana_react-app/static/css/main.1595fe63.css.map",
-    "main.11443614.js.map": "/patelybhana_react-app/static/js/main.11443614.js.map"
+    "main.2cbaed93.js.map": "/patelybhana_react-app/static/js/main.2cbaed93.js.map"
   },
   "entrypoints": [
     "static/css/main.1595fe63.css",
-    "static/js/main.11443614.js"
+    "static/js/main.2cbaed93.js"
   ]
 }
