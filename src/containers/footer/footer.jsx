@@ -9,10 +9,6 @@ const Footer = () => {
     <div className='footer'>
       <div className='footer-links'>
         <div className='footer-links-container'>
-          <p><a href='#home'>Home</a></p>
-          <p><a href='#legal-services'>Legal Services</a></p>
-          <p><a href='#about-us'>About Us</a></p>
-          <p><a href='#contact'>Contact</a></p>
         </div>
         <div className='footer-social'>
           <a href='www.facebook.com' className='footer-facebook'><AiFillFacebook /></a>
