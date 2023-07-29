@@ -8,10 +8,6 @@ import real from '../../Assets/imagenes/photo-1507679799987-c73779587ccf.jpg'
 import realicons from '../../Assets/tax law.png'
 import business from '../../Assets/imagenes/photo-1431540015161-0bf868a2d407.jpg'
 import businessicons from '../../Assets/business law.png'
-import family from '../../Assets/imagenes/photo-1455390582262-044cdead277a.jpg'
-import familyicons from '../../Assets/family law.png'
-import maritime from '../../Assets/imagenes/photo-1505682634904-d7c8d95cdc50.jpg'
-import maritimeicons from '../../Assets/maritimo.png'
 
 const Btngrid = () => {
   return (
