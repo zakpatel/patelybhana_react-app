@@ -9,28 +9,18 @@
     width: 465px;
     left: 165px;
     position: relative;
-    margin-top: 75px;
+    margin-top: 175px;
 }
 
 .quotes-text-container h1{
     color: #213C2C;
     font-family: Montserrat;
-    font-size: 40px;
+    font-size: 70px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
 }
 
-.quotes-text-container p{
-    color: #213C2C;
-    font-family: Montserrat;
-    font-size: 22px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    opacity: 0.6;
-    margin-top: 33px;
-}
 
 .quotes-form-container{
     display: flex;

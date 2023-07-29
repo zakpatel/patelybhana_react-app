@@ -9,7 +9,7 @@ const Quotes = () => {
 const sendEmail = (e) => {
    e.preventDefault();
 
-  emailjs.sendForm('service_8fgen8p', 'template_ozenb46', form.current, 'Hw0Ivew1Rca9ybx8v')
+  emailjs.sendForm('service_l8kc9lw', 'template_ipr6stf', form.current, 'DiwmszKjAXvh0r6uj')
     .then((result) => {
         console.log(result.text);
         console.log("message sent");
@@ -24,7 +24,6 @@ const sendEmail = (e) => {
     <div className='quotes-container'>
       <div className='quotes-text-container'>
         <h1>Get a Free Quote</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Donec nec tortor magna. Sed pellentesque tellus in lectus rutrum ullamcorper.  Duis sit amet felis nisi. Praesent at nisl luctus, gravida neque eu, mattis erat.</p>
       </div>
         <form ref={form} onSubmit={sendEmail} className='quotes-form-container'>
           <div className='quotes-form-container-0'>
