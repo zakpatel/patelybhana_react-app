@@ -6,7 +6,7 @@ const Article = () => {
     <div className='article'>
       <div className='article-content'>
         <h1 className='header-text'>Patel & Bhana Legal Services</h1>
-        <p className='paragraph text'>Patel & Bhana is a licensed Panama law firm specializing in immigration, real estate law, relocation services, citizenship programs, as well as corporate and maritime law.</p>
+        <p className='paragraph text'>Patel & Bhana is a licensed Panama law firm specializing in immigration, real estate law, relocation services, citizenship programs, as well as corporate law.</p>
         <div className='article-button'>
           <button type='button' className='article-quote'>
             Get a free quote →

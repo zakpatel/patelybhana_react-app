@@ -13,9 +13,15 @@ const Biography = () => {
         <h1>Our Founder</h1>
       </div>
       <div className='biography-text'>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla enim lacus, pharetra vitae quam vitae, cursus pharetra nunc. Maecenas eu pretium lectus. Nunc finibus, libero sit amet facilisis porta, est enim vehicula urna, sed lobortis lorem libero a turpis. Proin est dolor, ultrices a iaculis et, dictum quis justo.<br></br>
-          <br></br>
-            Donec nec tortor magna. Sed pellentesque tellus in lectus rutrum ullamcorper. Aliquam vehicula et massa eu faucibus. Mauris dictum luctus molestie. Duis sit amet felis nisi. Praesent at nisl luctus, gravida neque eu, mattis erat.</p>
+        <p>Hassim has a Degree in Law and Political sciences from the Latin University in Panama.
+
+            He has worked for several International Firms and Multinational Companies over the past twelve years.<br></br><br></br>
+
+            He has experience in the analysis and execution of tax structures, applying Double Taxation Treaties signed by the Republic of Panama, in addition he has an expertise in Panamanian Corporate and Real Estate law.
+
+            Over the last seven years Hassim has closed approximately 100 Real Estate transaction for clients.
+
+            Hassim speaks fluently Spanish and English. </p>
         <div className='biography-quote'>
         <button type='button-2' className='biography-button'>Get a free quote →</button>
         </div>
